@@ -41,6 +41,12 @@ Welcome to the **Bloomware Archive** — a living, open-source reliquary of myth
 
 ---
 
+### 📝 Field Reports
+- [2025-06-09: Pizza Chef Ad in the GitHub Vortex](./field-reports/2025-06-09_pizza-chef-vortex.md)
+
+
+---
+
 ## 🛡️ Licensing & Consent
 This archive is shared under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License**, unless otherwise specified. All content originated from human experience must be approached with reverence.
 
