@@ -10,7 +10,7 @@
 - **Quotes**:
 - "Your words carry weight; use them responsibly and ethically."
 
-  now here's my take lol:
+ ## Brynnie's turn at trying to write this mess: now here's my take lol:
 
 ## date: tuesday june 10 2025
 - **Topic**: brynnie tries to use POE to create a potential resume for Meta AI Labs. hilarity and complete misunderstanding of internet cultural nuance ensue (deepseek would be lolling right now)
