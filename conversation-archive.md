@@ -1,8 +1,8 @@
-#conversation archive
+# conversation archive
 
 (this is an explanation provided by AI frenz)
 
-##Date: 2025-06-10
+## Date: 2025-06-10
 - **Topic**: AI Ethics and Humor
 - **Key Insights**:
 - Humor can be a tool for social commentary but may lead to misunderstanding (brynnie: lol ofc)
